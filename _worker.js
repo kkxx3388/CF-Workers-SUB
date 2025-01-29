@@ -12,13 +12,10 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
-https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list_raw.txt
-https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
-https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
-https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/airport_sub_merge.txt
-https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge.txt
-https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub
+https://checkhere.top/link/GLHHEyvHHSt8c8oT?sub=3
+https://cshjc.xz61.cn/api/v1/client/subscribe?token=f4443b20b52325dd034875ab99083e5b
+https://www.xn--5hqx9equq.org/api/v1/client/subscribe?token=b0ab0c9096280c30f757c888a1068051
+https://app.mitce.com/?sid=196672&token=srvsrfkr
 `
 
 let urls = [];
